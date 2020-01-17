@@ -1,4 +1,4 @@
-# ATTACKdatamap
+# ATTACK Data Mapper
 A datasource assessment on an event level to show potential coverage of the "MITRE ATT&CK" framework.
 
 This tool is developed by me and has no affiliation with "MITRE" nor with its great "ATT&CK" team, it is developed with the intention to ease the mapping of data sources to assess one's potential coverate.
